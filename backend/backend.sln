@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gpt.API", "backend\gpt.API.csproj", "{52411A3E-5FB5-47B8-9CFC-A289CC12C4F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52411A3E-5FB5-47B8-9CFC-A289CC12C4F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52411A3E-5FB5-47B8-9CFC-A289CC12C4F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52411A3E-5FB5-47B8-9CFC-A289CC12C4F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52411A3E-5FB5-47B8-9CFC-A289CC12C4F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {328D7961-F9C9-49D7-93E0-2511D9E9DE16}
+	EndGlobalSection
+EndGlobal

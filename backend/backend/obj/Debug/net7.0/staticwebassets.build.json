@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tkKgbO2JBn2NWxRUa10nQlTP4DCqdUq+x1uJiTLHsZA=",
+  "Source": "gpt.API",
+  "BasePath": "_content/gpt.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
